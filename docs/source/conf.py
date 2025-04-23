@@ -18,6 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx_book_theme',
+    'myst_parser',
+    'sphinx_design',
 ]
 
 intersphinx_mapping = {
@@ -37,8 +39,8 @@ html_theme = 'sphinx_book_theme'
 
 html_theme_options = {
     "repository_url": "https://github.com/Shawn-Guo-CN/ChinaTripInfo",
-    "use_repository_button": True,
-    "use_issues_button": True,
+    "use_repository_button": False,
+    "use_issues_button": False,
     "use_download_button": True,
     "use_fullscreen_button": True,
     "home_page_in_toc": True,
@@ -46,3 +48,8 @@ html_theme_options = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Options for Markdown input
+myst_enable_extensions = [
+    'colon_fence',
+]

@@ -6,3 +6,8 @@ build-backend = "flit_core.buildapi"
 name = "chinatripinfo"
 authors = [{name = "Shangmin Guo", email = "shawnguo.cn@gmail.com"}]
 dynamic = ["version", "description"]
+dependencies = [
+    "myst-parser>=4.0.1",
+    "sphinx-book-theme>=1.1.4",
+    "sphinx-design>=0.6.1",
+]
