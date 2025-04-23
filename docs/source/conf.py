@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'ChinaTripInfo'
-copyright = '2025, Shawn Guo'
-author = 'Shawn Guo'
+copyright = '2025, Shangmin Guo'
+author = 'Shangmin Guo'
 
 release = '0.1'
 version = '0.1.0'
@@ -32,7 +32,7 @@ templates_path = ['_templates']
 autodoc_mock_imports = ["lumache"]
 
 # -- Options for HTML output
-
+html_title = 'China Trip Guidebook'
 html_theme = 'sphinx_book_theme'
 
 html_theme_options = {
