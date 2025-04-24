@@ -49,7 +49,20 @@ html_theme_options = {
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+# -- Options for MyST-NB 
+nb_execution_mode = "cache"  # "force", "cache", "off"
+nb_execution_timeout = 30  # seconds
+nb_execution_allow_errors = False
+nb_execution_raise_on_error = True
+
 # -- Options for Markdown input
+# jupyter_execute_notebooks = "auto"
+
 myst_enable_extensions = [
-    'colon_fence',
+    "colon_fence",
+    "dollarmath",
+    "amsmath",
+    "deflist",
+    "html_image",
 ]
+
