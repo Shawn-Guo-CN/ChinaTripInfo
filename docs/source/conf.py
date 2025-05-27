@@ -34,7 +34,7 @@ templates_path = ['_templates']
 autodoc_mock_imports = ["lumache"]
 
 # -- Options for HTML output
-html_title = 'China Trip Guidebook'
+html_title = 'China Trip Handbook'
 html_theme = 'sphinx_book_theme'
 
 html_theme_options = {
@@ -46,10 +46,28 @@ html_theme_options = {
     "home_page_in_toc": True,
 }
 
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+# -- Options for MyST-NB 
+nb_execution_mode = "cache"  # "force", "cache", "off"
+nb_execution_timeout = 30  # seconds
+nb_execution_allow_errors = False
+nb_execution_raise_on_error = True
+
 # -- Options for Markdown input
+# jupyter_execute_notebooks = "auto"
+
 myst_enable_extensions = [
-    'colon_fence',
+    "colon_fence",
+    "dollarmath",
+    "amsmath",
+    "deflist",
+    "html_image",
 ]
+
