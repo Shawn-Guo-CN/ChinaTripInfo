@@ -2,9 +2,9 @@
 
 You have three visa-free entry options:
 
+- **Enter China** without a visa and stay for up to 3**0 days,** through **December 31, 2025** (*see “Time-limited” option below*), or
 - **Enter Hainan Province** directly and stay there for up to **30 days** without a visa (*see “Hainan” option below*), or
-- **Enter through select ports in China** without a visa and stay for up to **10 days,** if you're **transiting** to a third country (*see “Transit” option below*), or
-- **Enter China** without a visa and stay for up to 3**0 days,** through **December 31, 2025** (*see “Time-limited” option below*).
+- **Enter through select ports in China** without a visa and stay for up to **10 days,** if you're **transiting** to a third country (*see “Transit” option below*).
 
 > ❗ The unilateral visa-free entry policy is expected to be extended. We’ll keep this page updated with the latest information.
 
@@ -15,7 +15,6 @@ You have three visa-free entry options:
 - One of the two options below:
     - ⏳ Time-limited: You can enter China **without** a visa and stay for **up to 30 days** through **December 31, 2025** .
     - 🏝️ Hainan: You can **stay up to 30 days** in the **Hainan Province** of China without a visa.
-- The duration of stay is counted from 12:00 a.m. on the day **after** your entry.
 - You can **refresh** your quota by **re-entering Hainan**.
 - There’s **no limit to the number of times** you can leave and re-enter.
 - (That said, you could technically stay however long by re-entering every 30 days.)
@@ -33,7 +32,7 @@ In all cases, the duration of stay is counted from 12:00 a.m. on the day **after
 #### ⏳ Time-limited
 
 - Your passport must be valid for at least the duration of intended stay.
-- This unilateral visa-free policy will remain in effect for you **until December 31, 2025**.
+- This unilateral visa-free policy will remain in effect for you **until December 31, 2025** (likely to be extended).
 
 #### 🏝️ Hainan
 

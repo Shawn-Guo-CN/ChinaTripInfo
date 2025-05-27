@@ -1,8 +1,10 @@
 ## ✅ 30-Day Visa-Free (⚠️ until May 31, 2026)
 
+> ❗ The unilateral visa-free entry policy is expected to be extended. We’ll keep this page updated with the latest information.
+
 ### 📅  Duration of Stay
 
-- You can enter China without a visa and stay for **up to 30 days** through **May 31, 2026**.
+- You can enter China without a visa and stay for **up to 30 days** through **May 31, 2026** (likely to be extended).
     - The duration is calculated **starting from 12:00 a.m.** on the day **following** your entry.
     - You can **refresh** your quota by **re-entering mainland China**.
     - There’s **no limit to the number of times** you can leave and re-enter.
@@ -26,7 +28,6 @@
 ### ❌ You Cannot
 
 - Work, study, live long-term, or do journalism in China without prior approval.
-- Stay in China after May 31, 2026.
 
 ---
 

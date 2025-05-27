@@ -1,5 +1,7 @@
 ## ✅ 30-Day Visa-Free (⚠️ until Dec 31, 2025)
 
+> ❗ The unilateral visa-free entry policy is expected to be extended. We’ll keep this page updated with the latest information.
+
 ### 📅  Duration of Stay
 
 - You can enter China without a visa and stay for **up to 30 days** through **December 31, 2025**.
