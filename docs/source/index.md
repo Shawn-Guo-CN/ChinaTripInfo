@@ -10,10 +10,12 @@ We’re a team of passionate travelers who’ve studied in Europe and the US, an
 
 ## Our Mission
 
-Our mission is simple: to make traveling in China easier, smoother, and more enjoyable for international travellers.. Every tip, tutorial, and update here is:
- - ✅ **Hands-on** — *Actionable* steps, not just theory.
- - ✅ **Up-to-date** — Visa rules, VPNs, payment methods, and laws (we monitor changes weekly).
- - ✅ **By travellers, for travellers** — Solutions have all been tested by us!
+Our mission is simple: to make traveling in China easier, smoother, and more enjoyable for international travellers. Every tip, tutorial, and update here is:
+ - 🔧 **Hands-on** — *Actionable* steps, not just theory.
+ - 🔄 **Reliable & Updated** — Verified weekly (visa policies, VPNs, etc.).
+ - 📚 **Comprehensive** — Covering all aspects of travel in China.
+ - 📥 **Offline Ready** — Save any page as PDF instantly.
+ - 🌍 **By travellers, for travellers!**
 
 In the meantime, we’re also working on launching **video guides** on social platforms to make everything even clearer.
 
@@ -47,5 +49,5 @@ before_you_go/index
 If you enjoy our work, feel free to scan the QR code below and buy us a coffee ☕. Your support keeps this project going and helps us reach more travelers like you!
 
 <div align="center">
-  <img src="_static/images/revolut.jpg" alt="Support QR Code" style="max-width: 400px; height: auto;" />
+  <img src="_static/images/revolut.jpg" alt="Support QR Code" style="max-width: min(100vw, 400px); height: auto;" />
 </div>
