@@ -6,7 +6,7 @@
     - The duration is calculated **starting from 12:00 a.m.** on the day **following** your entry.
     - You can **refresh** your quota by **re-entering mainland China**.
     - There’s **no limit to the number of times** you can leave and re-enter.
-    - (That said, you could technically stay in China indefinitely by re-entering every 30 days.)
+    - (That said, you could technically stay in China indefinitely by re-entering every 60 days.)
 - If staying >30 days, you must register for residence at local authorities.
 
 ---

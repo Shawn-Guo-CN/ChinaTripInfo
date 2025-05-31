@@ -177,10 +177,10 @@ async function initPage() {
 // Load policy content
 async function loadPolicy(policies) {
   const policyDisplay = document.getElementById('visa-policy-display');
-  
+
   // Convert policies to filename
   const filename = convertPolicyToFilename(policies);
-  
+
   // Get primary policy type and color
   const policyType = getPrimaryPolicyType(policies);
   const colorClass = policyColorMapping[policyType] || 'danger';
