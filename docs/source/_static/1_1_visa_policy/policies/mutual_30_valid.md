@@ -9,37 +9,25 @@
     - (That said, you could technically stay in China indefinitely by re-entering every 30 days.)
 - If staying >30 days, you must register for residence at local authorities.
 
----
-
 ### 🛂 Requirements
 
 - Your passport must be valid for **at least 6 months** at the time of entry.
-
----
 
 ### ✅ You Can Do
 
 - Business, travel, visit relatives, attend exchanges, or transit in China without a visa.
 
----
-
 ### ❌ You Cannot
 
 - Work, study, live long-term, or do journalism in China without prior approval.
-
----
 
 ### 📍 Permitted Travel Areas
 
 - Anywhere in Mainland China
 
----
-
 ### 🛬 Entry Ports
 
 - Any international port in China
-
----
 
 ### 🔗 Official References
 

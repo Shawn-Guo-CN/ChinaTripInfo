@@ -8,6 +8,9 @@ This project is under active development.
 
 We’re a team of passionate travelers who’ve studied in Europe and the US, and backpacked across continents. We know firsthand how daunting it can be to navigate a culture vastly different from your own. That’s why we built **ChinaTrip.Info** — to cut through the complexity and give you the *exact* knowledge you need to explore China smoothly, safely, and freely!
 
+Currently, we're a small team of 3: Shangmin Guo, Yihua Chen, and Jianle Zhu.
+We're based in the UK and China at the moment.
+
 ## Our Mission
 
 Our mission is simple: to make traveling in China easier, smoother, and more enjoyable for international travellers. Every tip, tutorial, and update here is:

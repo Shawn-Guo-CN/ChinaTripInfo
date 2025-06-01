@@ -5,7 +5,7 @@
 - You can enter China **without** a visa and stay for **up to 30 days**.
     - The duration is calculated **starting from 12:00 a.m.** on the day **following** your entry.
     - You can **refresh** your quota by **re-entering mainland China**.
-    - You can stay in China for **up to 90 days** within any **180-day period**.
+    - You can stay in China for **up to 90 days** within any **calendar year**.
 - If staying >30 days, you must register for residence at local authorities.
 
 ---

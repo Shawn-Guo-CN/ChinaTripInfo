@@ -1,4 +1,4 @@
-## ⚠️ 30-Day Visa-Free in Hainan
+## ⚠️ 30-Day Visa-Free (in Hainan)
 
 ### 📅 Duration of Stay
 
