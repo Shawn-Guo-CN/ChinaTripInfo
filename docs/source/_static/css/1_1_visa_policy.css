@@ -18,22 +18,41 @@
   margin-top: 2px;
 }
 
-.policy-content h2 {
+/* 统一的标题样式 - 适用于 .policy-content 和 .policy-collapse */
+.policy-content h2,
+.policy-collapse h2 {
   margin-top: 0 !important;
+  font-size: 1.5em;
+  line-height: 1.4;
 }
 
-.policy-content h3 {
-  margin-top: 0.5rem !important;
+.policy-content h3,
+.policy-collapse h3 {
+  font-size: 1.125rem; /* h4 size */
+  font-weight: 600;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .policy-content h4,
-.policy-content h5 {
-  margin-top: 0.8rem !important;
-  margin-bottom: 0 !important;
+.policy-collapse h4 {
+  font-size: 1rem; /* h5 size */
+  font-weight: 600;
+  margin-top: 1.25rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
-/* 确保段落间距适当 */
-.policy-content p {
+.policy-content h5,
+.policy-collapse h5 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* 段落间距 */
+.policy-content p,
+.policy-collapse p {
   margin-bottom: 0.75rem;
 }
 
@@ -57,26 +76,24 @@
 }
 
 /* Dark theme styles */
-.policy-content.dark-theme {
+.policy-content.dark-theme,
+.policy-header.dark-theme {
   color: #ffffff !important;
 }
 
 .policy-success.dark-theme {
   background-color: rgba(40, 167, 69, 0.2);
-  border-left: 4px solid #28a745;
 }
 
 .policy-warning.dark-theme {
   background-color: rgba(255, 193, 7, 0.2);
-  border-left: 4px solid #ffc107;
 }
 
 .policy-danger.dark-theme {
   background-color: rgba(220, 53, 69, 0.2);
-  border-left: 4px solid #dc3545;
 }
 
-/* Make all text content white in dark theme */
+/* 统一的暗色主题文本颜色 */
 .policy-content.dark-theme p, 
 .policy-content.dark-theme li, 
 .policy-content.dark-theme h2, 
@@ -86,7 +103,17 @@
 .policy-content.dark-theme strong,
 .policy-content.dark-theme em,
 .policy-content.dark-theme blockquote,
-.policy-content.dark-theme a {
+.policy-content.dark-theme a,
+.policy-collapse.dark-theme p, 
+.policy-collapse.dark-theme li, 
+.policy-collapse.dark-theme h2, 
+.policy-collapse.dark-theme h3, 
+.policy-collapse.dark-theme h4,
+.policy-collapse.dark-theme h5,
+.policy-collapse.dark-theme strong,
+.policy-collapse.dark-theme em,
+.policy-collapse.dark-theme blockquote,
+.policy-collapse.dark-theme a {
   color: #ffffff !important;
 }
 
@@ -96,11 +123,11 @@
   border-left: 3px solid #666;
 }
 
+/* Policy section styles */
 .policy-section {
   margin-bottom: 16px;
 }
 
-/* Policy section styles */
 .policy-header {
   padding: 12px 12px;
   border-radius: 4px 4px 0 0;
@@ -136,27 +163,6 @@
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.policy-collapse h3 {
-  font-size: 1.125rem; /* h4 size */
-  font-weight: 600;
-  margin-top: 1.5rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
-.policy-collapse h4 {
-  font-size: 1rem; /* h5 size */
-  font-weight: 600;
-  margin-top: 1.25rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
-.policy-collapse h5 {
-  font-size: 0.875rem;
-  font-weight: 600;
-  margin-top: 1rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
 /* Header colors - Light theme */
 .policy-header.policy-success {
   background-color: rgba(40, 167, 69, 0.2);
@@ -186,7 +192,7 @@
   background-color: rgba(220, 53, 69, 0.3);
 }
 
-/* Collapse content inherits policy content styles */
+/* 特殊的 collapse 内容间距调整 */
 .policy-collapse h2 {
   margin-top: 0 !important;
 }
@@ -199,26 +205,4 @@
 .policy-collapse h5 {
   margin-top: 0.8rem !important;
   margin-bottom: 0 !important;
-}
-
-.policy-collapse p {
-  margin-bottom: 0.75rem;
-}
-
-/* Dark theme text colors for collapsible content */
-.policy-collapse.dark-theme p, 
-.policy-collapse.dark-theme li, 
-.policy-collapse.dark-theme h2, 
-.policy-collapse.dark-theme h3, 
-.policy-collapse.dark-theme h4,
-.policy-collapse.dark-theme h5,
-.policy-collapse.dark-theme strong,
-.policy-collapse.dark-theme em,
-.policy-collapse.dark-theme blockquote,
-.policy-collapse.dark-theme a {
-  color: #ffffff !important;
-}
-
-.policy-header.dark-theme {
-  color: #ffffff !important;
 }

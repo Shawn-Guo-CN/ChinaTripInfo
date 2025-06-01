@@ -1,12 +1,13 @@
 ## ⚠️ 10-Day Visa-Free Transit (in Designated Areas)
 
-- You can **enter through select ports in China** without a visa and stay for up to **10 days,** if you're **transiting** to a third country.
+You can **enter through select ports in China** without a visa and stay for up to **10 days,** if you're **transiting** to a third country.
 
 ### 📅 Duration of Stay
 
 - You can **stay up to 10 days** in the **designated area** of China without a visa.
+- The duration of stay is counted from 12:00 a.m. on the day **after** your entry.
 
-The duration of stay is counted from 12:00 a.m. on the day **after** your entry.
+---
 
 ### 🛂 Requirements
 
@@ -14,13 +15,19 @@ The duration of stay is counted from 12:00 a.m. on the day **after** your entry.
 - You must be  **in transit** to a third country/region with interline tickets with **specified dates and seats**.
 - ❗Note that Hong Kong, Macau, and Taiwan are considered valid third regions for the purpose of transit.
 
+---
+
 ### ✅ You Can Do
 
 - Tourism, business, family or friends visits.
 
+---
+
 ### ❌ You Cannot
 
 - Work, study, live long-term, or do journalism in China without prior approval.
+
+---
 
 ### 📍 Permitted Travel Areas
 
@@ -55,6 +62,8 @@ The following 24 provinces/municipalities/autonomous regions
 24. **Zhejiang**: all cities
 
 </details>
+
+---
 
 ### 🛬 Entry Ports
 
@@ -147,6 +156,8 @@ The following 60 ports in the permitted 24 provinces:
     - Wenzhou Port (Passenger)
     - Zhoushan Port (Passenger)
 </details>
+
+---
 
 ### 🔗 Official References
 
