@@ -6,10 +6,11 @@ In this section, we’ll walk you through everything you need to know before tak
 :maxdepth: 1
 
 visa
+planning
 landing
 customs
-roaming
 currency
+roaming
 driving
 culture
 ```
@@ -18,21 +19,25 @@ First up: **visas**. Wondering if you can visit China without one, or how long y
 
 👉 [Visa Policy](visa)
 
-Next, let’s talk about **arriving in China**. We’ll recommend the best airports to land at and guide you step-by-step through **passport control** so you know exactly what to expect:
+Next, let’s talk about **planning a trip** to ****China! Save time and money with our essential hack, like flight deals, smart hotel picks, itinerary tricks, and hidden gems.
 
-✈️ [Landing Airport and Passport Control](landing)
+🧩 [Trip Planning Hacks](planning)
+
+Once your trip is booked, we’ll recommend the **best airports to land** at and guide you step-by-step through **passport control** so you know exactly what to expect:
+
+✈️ [Landing and Passport Control](landing)
 
 Then comes **customs**. It’s important to know what you can and can’t bring into the country. Here’s a simple overview of the key rules to keep in mind:
 
 🧳 [Customs Essentials](customs)
 
-Worried about staying **connected online** while you're in China? Totally understandable. We’ve got details on **roaming plans, SIM cards**, and how to access the apps you love with a VPN:
-
-📶 [Roaming & VPN](roaming)
-
 While you're still at the airport, it's a great time to handle **currency exchange**. Need a rough idea of how much to convert? We’ve got you covered:
 
 💱 [Currency Tips](currency)
+
+Worried about staying **connected online** while you're in China? Totally understandable. We’ve got details on **roaming plans, SIM cards**, and how to access the apps you love with a VPN:
+
+📶 [Roaming & VPN](roaming)
 
 Here’s a fun surprise: before you even leave the terminal, you might be able to pick up a **temporary driving license**—yes, right at the airport! Check out how:
 

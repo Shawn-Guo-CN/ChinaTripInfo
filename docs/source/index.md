@@ -6,18 +6,18 @@ This project is under active development.
 
 ## Who We Are
 
-We’re a team of passionate travelers who’ve studied in Europe and the US, and backpacked across continents. We know firsthand how daunting it can be to navigate a culture vastly different from your own. That’s why we built **ChinaTrip.Info** — to cut through the complexity and give you the *exact* knowledge you need to explore China smoothly, safely, and freely!
+We’re a team of passionate travelers who’ve studied in Europe and the US, and backpacked across continents. We know firsthand how daunting it can be to navigate a culture vastly different from your own. That’s why we built **ChinaTrip.Info**, to cut through the complexity and give you the *exact* knowledge you need to explore China smoothly, safely, and freely!
 
-Currently, we're a small team of 3: Shangmin Guo, Yihua Chen, and Jianle Zhu.
+Currently, we're a small team of 4: Shangmin Guo, Yihua Chen, Jianle Zhu, and Ekaterina Petlichenko.
 We're based in the UK and China at the moment.
 
 ## Our Mission
 
 Our mission is simple: to make traveling in China easier, smoother, and more enjoyable for international travellers. Every tip, tutorial, and update here is:
- - 🔧 **Hands-on** — *Actionable* steps, not just theory.
- - 🔄 **Reliable & Updated** — Verified weekly (visa policies, VPNs, etc.).
- - 📚 **Comprehensive** — Covering all aspects of travel in China.
- - 📥 **Offline Ready** — Save any page as PDF instantly.
+ - 🔧 **Hands-on**: *actionable* steps, not just theory.
+ - 🔄 **Reliable & Updated**: verified weekly (visa policies, VPNs, etc.).
+ - 📚 **Comprehensive**: covering all aspects of travel in China.
+ - 📥 **Offline Ready**: save any page as PDF instantly.
  - 🌍 **By travellers, for travellers!**
 
 In the meantime, we’re also working on launching **video guides** on social platforms to make everything even clearer.
@@ -26,26 +26,15 @@ In the meantime, we’re also working on launching **video guides** on social pl
 
 ### ✈️ Before You Go
 
-- **Visas & Entry**: Visa-free transit rules, country/city exceptions, airport guides.
-- **Connectivity**: Tested VPNs, SIM/eSIM tips, app setup.
-- **Money Essentials**: Cash rules, Alipay/WeChat Pay setup for foreign cards.
-- **Must-Know Rules**: Drone/powerbank limits, medicines, customs tips.
-- **Quick Notes**: Driving permits, EV rentals, etc.
+- **Visas & Entry**: [visa policies](before_you_go/visa), [trip planning hacks](before_you_go/planning), and [airport guides](before_you_go/landing).
+- **Customs & Money Matters**: [customs rules](before_you_go/customs), and [currency exchange guide](before_you_go/currency).
+- **Quick Notes**: [roaming & VPN](before_you_go/roaming), [driving permit guide](before_you_go/driving), and [culture & Etiquette](before_you_go/culture).
 
 ### 🧳 China Trip 101
 
 - **Travel Toolkit**: Emergency numbers, health tips, must-have apps.
 - **Getting Around**: Trains/flights, metro/bike/taxi guides, navigation.
 - **Stay & Explore**: Foreigner-friendly hotels, food/shopping hacks, tax refunds.
-
-### 📖 Table of Contents
-
-```{toctree}
-:maxdepth: 2
-:caption: Contents:
-
-before_you_go/index
-```
 
 ## 📬 Contact Us
 
@@ -63,3 +52,12 @@ Your support keeps this project going and helps us reach more travelers like you
 <div align="center">
   <img src="_static/images/revolut.jpg" alt="Support QR Code" style="max-width: min(100vw, 400px); height: auto;" />
 </div>
+
+### 📖 Table of Contents
+
+```{toctree}
+:maxdepth: 2
+
+before_you_go/index
+china_trip_101/index
+```
