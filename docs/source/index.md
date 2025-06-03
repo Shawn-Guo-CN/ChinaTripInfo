@@ -47,9 +47,18 @@ In the meantime, we’re also working on launching **video guides** on social pl
 before_you_go/index
 ```
 
-## Support Us
+## 📬 Contact Us
 
-If you enjoy our work, feel free to scan the QR code below and buy us a coffee ☕. Your support keeps this project going and helps us reach more travelers like you!
+Have questions, suggestions, or topics you'd like us to cover? We'd love to hear from you! Feel free to reach out to us at:
+
+**📧 [chinatrip.info.contact@gmail.com](mailto:chinatrip.info.contact@gmail.com)**
+
+Whether you're planning your first trip to China or have feedback to help us improve, your input is invaluable. We're here to assist you on your journey!
+
+## ☕ Buy Us a Coffee
+
+If you enjoy our work, feel free to scan the QR code below and buy us a coffee ☕.
+Your support keeps this project going and helps us reach more travelers like you!
 
 <div align="center">
   <img src="_static/images/revolut.jpg" alt="Support QR Code" style="max-width: min(100vw, 400px); height: auto;" />
