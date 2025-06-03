@@ -22,9 +22,9 @@ Our mission is simple: to make traveling in China easier, smoother, and more enj
 
 In the meantime, we’re also working on launching **video guides** on social platforms to make everything even clearer.
 
-## **What You’ll Find Here**
+## What You’ll Find Here
 
-### **✈️ Before You Go**
+### ✈️ Before You Go
 
 - **Visas & Entry**: Visa-free transit rules, country/city exceptions, airport guides.
 - **Connectivity**: Tested VPNs, SIM/eSIM tips, app setup.
@@ -32,13 +32,13 @@ In the meantime, we’re also working on launching **video guides** on social pl
 - **Must-Know Rules**: Drone/powerbank limits, medicines, customs tips.
 - **Quick Notes**: Driving permits, EV rentals, etc.
 
-### **🧳 China Trip 101**
+### 🧳 China Trip 101
 
 - **Travel Toolkit**: Emergency numbers, health tips, must-have apps.
 - **Getting Around**: Trains/flights, metro/bike/taxi guides, navigation.
 - **Stay & Explore**: Foreigner-friendly hotels, food/shopping hacks, tax refunds.
 
-### **📖 Table of Contents**
+### 📖 Table of Contents
 
 ```{toctree}
 :maxdepth: 2
@@ -47,7 +47,7 @@ In the meantime, we’re also working on launching **video guides** on social pl
 before_you_go/index
 ```
 
-## **Support Us**
+## Support Us
 
 If you enjoy our work, feel free to scan the QR code below and buy us a coffee ☕. Your support keeps this project going and helps us reach more travelers like you!
 
