@@ -6,14 +6,14 @@ This project is under active development.
 
 ## Who We Are
 
-We’re a team of passionate travelers who’ve studied in Europe and the US, and backpacked across continents. We know firsthand how daunting it can be to navigate a culture vastly different from your own. That’s why we built **ChinaTrip.Info**, to cut through the complexity and give you the *exact* knowledge you need to explore China smoothly, safely, and freely!
+We’re a team of passionate travellers who’ve studied in Europe and the US, and backpacked across continents. We know firsthand how daunting it can be to navigate a culture vastly different from your own. That’s why we built **ChinaTrip.Info**, to cut through the complexity and give you the *exact* knowledge you need to explore China smoothly, safely, and freely!
 
 Currently, we're a small team of 4: Shangmin Guo, Yihua Chen, Jianle Zhu, and Ekaterina Petlichenko.
 We're based in the UK and China at the moment.
 
 ## Our Mission
 
-Our mission is simple: to make traveling in China easier, smoother, and more enjoyable for international travellers. Every tip, tutorial, and update here is:
+Our mission is simple: to make travelling in China easier, smoother, and more enjoyable for international travellers. Every tip, tutorial, and update here is:
  - 🔧 **Hands-on**: *actionable* steps, not just theory.
  - 🔄 **Reliable & Updated**: verified weekly (visa policies, VPNs, etc.).
  - 📚 **Comprehensive**: covering all aspects of travel in China.
@@ -47,7 +47,7 @@ Whether you're planning your first trip to China or have feedback to help us imp
 ## ☕ Buy Us a Coffee
 
 If you enjoy our work, feel free to scan the QR code below and buy us a coffee ☕.
-Your support keeps this project going and helps us reach more travelers like you!
+Your support keeps this project going and helps us reach more travellers like you!
 
 <div align="center">
   <img src="_static/images/revolut.jpg" alt="Support QR Code" style="max-width: min(100vw, 400px); height: auto;" />

@@ -5,8 +5,10 @@
 In this section, you can find information about the visa policies of various countries.
 We keep all information up to date to ensure you have the latest details for your travel plans.
 
+```{important}
 If your country isn’t listed, you’ll need to obtain a visa before travelling to China.
 You can find detailed guidance and start your application on the [official visa application service centre](https://www.visaforchina.cn/).
+```
 
 ## Select Your Country
 

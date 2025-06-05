@@ -2,28 +2,15 @@
 
 In this section, we’ll walk you through everything you need to know before taking off for China.
 
-```{toctree}
-:maxdepth: 1
-
-visa
-planning
-landing
-customs
-currency
-roaming
-driving
-culture
-```
-
 First up: **visas**. Wondering if you can visit China without one, or how long you’re allowed to stay? Just head to this page and get the answers with a single click:
 
 👉 [Visa Policy](visa)
 
-Next, let’s talk about **planning a trip** to ****China! Save time and money with our essential hack, like flight deals, smart hotel picks, itinerary tricks, and hidden gems.
+Next, let’s talk about **planning a trip** to China! Save time and money with our essential hack, like flight deals, smart hotel picks, itinerary tricks, and hidden gems.
 
 🧩 [Trip Planning Hacks](planning)
 
-Once your trip is booked, we’ll recommend the **best airports to land** at and guide you step-by-step through **passport control** so you know exactly what to expect:
+Once your trip is booked, we’ll recommend the best **airports to land** at and guide you step-by-step through **passport control** so you know exactly what to expect:
 
 ✈️ [Landing and Passport Control](landing)
 
@@ -46,3 +33,18 @@ Here’s a fun surprise: before you even leave the terminal, you might be able t
 And to help you start off on the right foot, we’ve prepared a short intro to some of the **unique customs and everyday etiquette** in China:
 
 🧭 [Culture & Etiquette](culture)
+
+
+## 📖 Table of Contents
+```{toctree}
+:maxdepth: 1
+
+visa
+planning
+landing
+customs
+currency
+roaming
+driving
+culture
+```
